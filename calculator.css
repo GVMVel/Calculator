@@ -1,0 +1,37 @@
+*{
+    background-color:burlywood;
+    border-radius: 8px;
+}
+
+table, th, td {
+    border: 5px solid rgb(49, 21, 124);
+    border-collapse: collapse;
+    text-align: center;   
+}
+th, td {
+        background-color: hsl(336, 21%, 69%);
+        padding: 10px;
+      }
+button{
+    border: none;
+    padding: 10px;
+    background-color: hsl(336, 21%, 69%);
+    height: 40px;
+}  
+.bor1{
+    position: relative;
+    width: 500px;
+    height: 600px;
+    margin: 50px 550px 50px;
+   
+ }  
+ h2{
+    margin-left: 75px;
+    color: rgb(158, 30, 115);
+
+ }  
+.bor2{
+    position: absolute;
+    border: 5px solid rgb(35, 6, 41);
+   
+} 
